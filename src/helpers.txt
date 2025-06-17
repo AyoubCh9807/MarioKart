@@ -1,0 +1,46 @@
+    CHECK MAT NAME
+    
+    if(child.isMesh) {
+      if(!Array.isArray(child.material)) {
+        console.log(`mesh: ${child?.name}, material: ${child?.material?.name}`)
+      } else {
+        child.material.forEach((mat, i) => {
+          console.log(`Mesh: ${child.name}, Material[${index}]: ${mat?.name}`)
+        })
+      }
+    }
+
+
+const roadMats = ['ac_road1', 'ac_road2', 'ac_sandroad'];  ROAD MATERIALS
+
+//get model height: const height = new THREE.Box3().setFromObject(model).getSize(new THREE.Vector3()).y;
+//get model height: const width = new THREE.Box3().setFromObject(model).getSize(new THREE.Vector3()).x;
+
+MESH LOG DEBUG: 
+          console.log(`✅ Hit mesh: ${intersectedMesh.name}`)
+          if (Array.isArray(material)) {
+            material.forEach((mat, i) => {
+              console.log(`→ Material [${i}]:`, 'Name:', mat.name)
+            })
+          } else {
+            console.log('→ Material:', 'Name:', material.name)
+          }
+
+removed code:
+/* 
+    bowserOnRoad = checkOnRoad(rayCaster, bowser.model.position, game.roadMeshes);
+    if (bowserOnRoad.onRoad) {
+      // For example, change player speed or apply friction
+      console.log('Player is on the road!', bowserOnRoad.intersection.point);
+    }
+*/
+//  !sameRange(this.kart.model.position, platform.position, new THREE.Vector3(50, 5, 50)))
+KART MODEL ORIGIN FOR COLLISION ,  THE BACK LEFT WHEEL
+s
+UPDATE: MESSED UP COLLISIONS ESPECIALLY WITH ZA PLATFORM (RESLOVED) -- 16/06/2025
+UPDATE: CANNOT CONSOLE LOG THE INTERSECTION MESHES (RESLOVED) -- 16/06/2025
+UPDATE: CANNOT MAKE THE MODEL NOT COUNT AS A FLAT AREA (UNRESLOVED) -- 16/06/2025
+POSSIBLE CAUSES: not implementing gravity physics (will do l8r) -- 16/06/2025 
+CHANGE OF PLANS: MOVING INTO A NEW MAP MODEL -- 16/06/2025 21:45 
+UPDATE: WATER COLOR GRAY INSTEAD OF BLUE (UNRESOLVED)
+NOTE: got tired of this shi, counldt fix the water color, the mtl map is modified

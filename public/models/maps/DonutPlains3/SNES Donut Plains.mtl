@@ -1,0 +1,497 @@
+# Blender MTL File: 'None'
+# Material Count: 45
+
+newmtl CausticsArea7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd CausticsPattern.png
+map_d CausticsPattern.png
+
+newmtl dp3_BlockOutside
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_BlockOutside_Alb.png
+map_d sfcdp3_BlockOutside_Alb.png
+
+newmtl dp3_BridgeWood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_bridge_Alb.png
+map_d sfcdp3_bridge_Alb.png
+
+newmtl dp3_BridgeWood_UnderWater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_bridge_Alb.png
+map_d sfcdp3_bridge_Alb.png
+
+newmtl dp3_CliffOutside
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_CliffOutside_alb.png
+map_d sfcdp3_CliffOutside_alb.png
+
+newmtl dp3_CliffTunagi_suna
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_cliff_Alb.png
+map_d sfcdp3_cliff_Alb.png
+
+newmtl dp3_CliffTunagi_suna_UnderWater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_cliff_Alb.png
+map_d sfcdp3_cliff_Alb.png
+
+newmtl dp3_ColorBlock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_ColorBlock_Alb.png
+map_d sfcdp3_ColorBlock_Alb.png
+
+newmtl dp3_ColorBlock_UnderWater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_ColorBlock_Alb.png
+map_d sfcdp3_ColorBlock_Alb.png
+
+newmtl dp3_ColorPanel
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_ColorPanel_Alb.png
+map_d sfcdp3_ColorPanel_Alb.png
+
+newmtl dp3_ColorPanel_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_ColorPanel_2_Alb.png
+map_d sfcdp3_ColorPanel_2_Alb.png
+
+newmtl dp3_ForestEnkei
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_ForestEnkei_Alb.png
+map_d sfcdp3_ForestEnkei_Alb.png
+
+newmtl dp3_IronObj
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_IronObj_Alb.png
+map_d sfcdp3_IronObj_Alb.png
+
+newmtl dp3_KinopioHouse
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_KinopioHouse_Alb.png
+map_d sfcdp3_KinopioHouse_Alb.png
+
+newmtl dp3_KinopioHouse.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_KinopioHouse_Alb.png
+map_d sfcdp3_KinopioHouse_Alb.png
+
+newmtl dp3_LakeBottom
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_LakeBottom_Alb.png
+map_d sfcdp3_LakeBottom_Alb.png
+
+newmtl dp3_RoadTunagi_gake
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_road_Alb.png
+map_d sfcdp3_road_Alb.png
+
+newmtl dp3_RoadTunagi_suna
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_road_Alb.png
+map_d sfcdp3_road_Alb.png
+
+newmtl dp3_RoadTunagi_tuchi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_road_Alb.png
+map_d sfcdp3_road_Alb.png
+
+newmtl dp3_StartLogo
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_StartLogo_Alb.png
+map_d sfcdp3_StartLogo_Alb.png
+
+newmtl dp3_StartParts
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_StartParts_Alb.png
+map_d sfcdp3_StartParts_Alb.png
+
+newmtl dp3_TireMark
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_TireMark_Alb.png
+map_d sfcdp3_TireMark_Alb.png
+
+newmtl dp3_TreeB_FakeLeaf
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_TreeB_FakeLeaf_Alb.png
+map_d sfcdp3_TreeB_FakeLeaf_Alb.png
+
+newmtl dp3_TreeB_LeafBase
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_TreeB_LeafBase_Alb.png
+map_d sfcdp3_TreeB_LeafBase_Alb.png
+
+newmtl dp3_TreeB_leaf
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_TreeB_Leaf_Alb.png
+map_d sfcdp3_TreeB_Leaf_Alb.png
+
+newmtl dp3_TreeB_miki
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_TreeB_miki_Alb.png
+map_d sfcdp3_TreeB_miki_Alb.png
+
+newmtl dp3_TreeB_plane
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_PlaneTree_Alb.png
+map_d sfcdp3_PlaneTree_Alb.png
+
+newmtl dp3_YamaA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_grass_Nrm.png
+map_d sfcdp3_grass_Nrm.png
+
+newmtl dp3_YamaB
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_yama_B_Alb.png
+map_d sfcdp3_yama_B_Alb.png
+
+newmtl dp3_YamaC
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_yama_C_Alb.png
+map_d sfcdp3_yama_C_Alb.png
+
+newmtl dp3_brick
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_brick_Alb.png
+map_d sfcdp3_brick_Alb.png
+
+newmtl dp3_cliff
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_cliff_Alb.png
+map_d sfcdp3_cliff_Alb.png
+
+newmtl dp3_cliff_UnderWater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_cliff_Alb.png
+map_d sfcdp3_cliff_Alb.png
+
+newmtl dp3_grass_OutSide
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd sfcdp3_grass_Alb.png
+map_d sfcdp3_grass_Alb.png
+
+newmtl dp3_grass_nuki
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.00000
+illum 3
+map_Kd sfcdp3_grass_Alb.png
+map_d sfcdp3_grass_Alb.png
+
+newmtl dp3_hana
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_flowers_Alb.png
+map_d sfcdp3_flowers_Alb.png
+
+newmtl dp3_house_wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_KinopioHouseDoor_Alb.png
+map_d sfcdp3_KinopioHouseDoor_Alb.png
+
+newmtl dp3_plantA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_PlantA_Alb.png
+map_d sfcdp3_PlantA_Alb.png
+
+newmtl dp3_plantA_outside
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_PlantA_Alb.png
+map_d sfcdp3_PlantA_Alb.png
+
+newmtl dp3_plantC_UnderWater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_PlantB_Alb.png
+map_d sfcdp3_PlantB_Alb.png
+
+newmtl dp3_road
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_road_Alb.png
+map_d sfcdp3_road_Alb.png
+
+newmtl dp3_road2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd sfcdp3_road2_Alb.png
+map_d sfcdp3_road2_Alb.png
+
+newmtl ef_waterB
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ef_water_Nrm.png
+map_d ef_water_Nrm.png
+
+newmtl ef_waterF
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ef_water_Nrm.png
+map_d ef_water_Nrm.png
+
+newmtl ef_waterline
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ef_waterlineA_Alb.png
+map_d ef_waterlineA_Alb.png
